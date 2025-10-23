@@ -13,7 +13,6 @@ Perfect for beginners to understand CSS Grid layout, styling, and basic webpage 
 - CSS3
 
 📂 How to Run:
-1. Download or clone the repository.
- https://image-gallery-theta-umber.vercel.app/
+1. Download or clone the repository. 
 2. Open `index.html` in your browser.
 3. Replace sample images with your own to personalize the gallery.
